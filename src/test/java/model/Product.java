@@ -60,4 +60,5 @@ public class Product {
     public void setValidated(Boolean validated) {
         this.validated = validated;
     }
+
 }

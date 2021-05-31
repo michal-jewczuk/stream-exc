@@ -1,5 +1,6 @@
 package test.java.config;
 
+import test.java.assignment.AssignmentOne;
 import test.java.assignment.ProductCreator;
 import test.java.model.Product;
 
@@ -13,6 +14,9 @@ public class Executor {
 
     static {
         allProducts = ProductCreator.getAllProducts("examples1.txt");
+        System.out.println(allProducts);
+
+        addTask(new AssignmentOne());
     }
 
     public static void addTask(TaskExecutor taks) {
