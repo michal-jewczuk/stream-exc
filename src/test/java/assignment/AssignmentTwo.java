@@ -5,13 +5,13 @@ import test.java.config.TaskExecutor;
 /**
  * Assignment
  * <p>
- * Print a list of models that are validated and have a year greater than 2018.
+ * Print all unique colors for products of type other than test.
  * <p>
  * Do not forget to add task to Executor!
  */
-public class AssignmentOne implements TaskExecutor {
+public class AssignmentTwo implements TaskExecutor {
 
-    public AssignmentOne() {
+    public AssignmentTwo() {
         printLineSeparator();
     }
 

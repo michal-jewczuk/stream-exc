@@ -5,15 +5,11 @@ import test.java.config.TaskExecutor;
 /**
  * Assignment
  * <p>
- * Print a list of models that are validated and have a year greater than 2018.
+ * Print sum of months for all products with name that starts with Test
  * <p>
  * Do not forget to add task to Executor!
  */
-public class AssignmentOne implements TaskExecutor {
-
-    public AssignmentOne() {
-        printLineSeparator();
-    }
+public class AssignmentThree implements TaskExecutor {
 
     @Override
     public void executeTask() {

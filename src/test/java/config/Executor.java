@@ -14,13 +14,12 @@ public class Executor {
 
     static {
         allProducts = ProductCreator.getAllProducts("examples1.txt");
-        System.out.println(allProducts);
 
         addTask(new AssignmentOne());
     }
 
-    public static void addTask(TaskExecutor taks) {
-        executors.add(taks);
+    public static void addTask(TaskExecutor task) {
+        executors.add(task);
     }
 
     public static void executeAllTasks() {

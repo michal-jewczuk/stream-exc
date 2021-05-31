@@ -5,15 +5,12 @@ import test.java.config.TaskExecutor;
 /**
  * Assignment
  * <p>
- * Print a list of models that are validated and have a year greater than 2018.
+ * Print the following summary:
+ * product type: sum of all years in that group
  * <p>
  * Do not forget to add task to Executor!
  */
-public class AssignmentOne implements TaskExecutor {
-
-    public AssignmentOne() {
-        printLineSeparator();
-    }
+public class AssignmentFour implements TaskExecutor {
 
     @Override
     public void executeTask() {
