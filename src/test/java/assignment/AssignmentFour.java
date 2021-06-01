@@ -1,6 +1,6 @@
 package test.java.assignment;
 
-import test.java.config.TaskExecutor;
+import test.java.config.AssignmentExecutor;
 
 /**
  * Assignment
@@ -8,9 +8,9 @@ import test.java.config.TaskExecutor;
  * Print the following summary:
  * product type: sum of all years in that group
  * <p>
- * Do not forget to add task to Executor!
+ * Do not forget to add assignment to Executor!
  */
-public class AssignmentFour implements TaskExecutor {
+public class AssignmentFour implements AssignmentExecutor {
 
     @Override
     public void executeTask() {

@@ -10,7 +10,7 @@ package test.java.assignment;
  * c) name contains a number or phrase "kor"
  * d) final string has length no greater than 15 characters
  * <p>
- * Do not forget to add task to Executor!
+ * Do not forget to add assignment to Executor!
  */
 public class AssignmentSix {
 

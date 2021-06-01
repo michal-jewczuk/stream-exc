@@ -1,6 +1,6 @@
 package test.java.config;
 
-public interface TaskExecutor {
+public interface AssignmentExecutor {
 
     void executeTask();
 

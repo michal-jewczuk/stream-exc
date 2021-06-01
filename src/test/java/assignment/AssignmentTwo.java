@@ -1,15 +1,15 @@
 package test.java.assignment;
 
-import test.java.config.TaskExecutor;
+import test.java.config.AssignmentExecutor;
 
 /**
  * Assignment
  * <p>
  * Print all unique colors for products of type other than test.
  * <p>
- * Do not forget to add task to Executor!
+ * Do not forget to add assignment to Executor!
  */
-public class AssignmentTwo implements TaskExecutor {
+public class AssignmentTwo implements AssignmentExecutor {
 
     public AssignmentTwo() {
         printLineSeparator();

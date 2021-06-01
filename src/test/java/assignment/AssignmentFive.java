@@ -5,7 +5,7 @@ package test.java.assignment;
  * <p>
  * Print all unique combinations of colour and type.
  * <p>
- * Do not forget to add task to Executor!
+ * Do not forget to add assignment to Executor!
  */
 public class AssignmentFive {
 
