@@ -1,3 +1,25 @@
-Test product 1;yellow;test;2021;11;false
+Test product 1;yellow; test;2021;11;false
 Test product 2;green;test;2021;12;false
-Test product 3;yellow;test;2022;3;false
+Test product 3;yellow;test ;2022;3;false
+Test product 4; red ;test;2023;1;false
+Test product 5;red;test;2023;2;false
+Test product 6;purple ;test;2022;4;false
+Test product 7;white;test;2021;12;false
+Test product 8;purple;test;2021;12;false
+Acme 99; purple;broken;2019;03;true
+Acme 1234567;purple;prototype;2019;4;true
+Acme X;green;working ;2020;7;false
+Acme;green; prototype;2020;8;true
+Acme7;red;broken;2018;true
+Akord1;white;working;2019;4;true
+Akord2;green;broken;2019;5;true
+Akord777;yellow;working;2019;true
+Akord 45;red;working;2019;12;true
+Akord;red;working;2020;3;true
+Kor EK;green;prototype;2020;5;false
+Kor EK1;green ;prototype;2020;6;false
+Kor EK2; green ;prototype;2020;8;true
+Kor EK3; green;prototype;2020;7;false
+K.O.R.;blue;working;2019;6;true
+K.O.R. 7;blue;prototype;2020;5;false
+K.O.R. IV;red;broken;2019;7;true
