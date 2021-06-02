@@ -7,7 +7,7 @@ import test.java.config.AssignmentExecutor;
  * <p>
  * Print a list of models that are validated and have a year greater than 2018.
  * <p>
- * Do not forget to add assignment to Executor!
+ * Do not forget to add test.java.assignment to Executor!
  */
 public class AssignmentOne implements AssignmentExecutor {
 

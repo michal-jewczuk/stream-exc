@@ -8,7 +8,7 @@ import test.java.config.AssignmentExecutor;
  * Print the following summary:
  * product type: sum of all years in that group
  * <p>
- * Do not forget to add assignment to Executor!
+ * Do not forget to add test.java.assignment to Executor!
  */
 public class AssignmentFour implements AssignmentExecutor {
 

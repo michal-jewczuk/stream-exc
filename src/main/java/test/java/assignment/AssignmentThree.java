@@ -7,7 +7,7 @@ import test.java.config.AssignmentExecutor;
  * <p>
  * Print sum of months for all products with name that starts with Test
  * <p>
- * Do not forget to add assignment to Executor!
+ * Do not forget to add test.java.assignment to Executor!
  */
 public class AssignmentThree implements AssignmentExecutor {
 

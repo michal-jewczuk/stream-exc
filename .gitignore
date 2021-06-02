@@ -1,3 +1,5 @@
 .idea
 out/
 stream-exc.iml
+build/
+.gradle/

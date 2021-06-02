@@ -7,7 +7,7 @@ import test.java.config.AssignmentExecutor;
  * <p>
  * Print all unique colors for products of type other than test.
  * <p>
- * Do not forget to add assignment to Executor!
+ * Do not forget to add test.java.assignment to Executor!
  */
 public class AssignmentTwo implements AssignmentExecutor {
 
