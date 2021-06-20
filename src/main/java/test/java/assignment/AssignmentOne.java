@@ -5,7 +5,7 @@ import test.java.config.AssignmentExecutor;
 /**
  * Assignment
  * <p>
- * Print a list of models that are validated and have a year greater than 2018.
+ * Print a list of Products that are validated and have a year greater than 2018.
  * <p>
  * Do not forget to add test.java.assignment to Executor!
  */
