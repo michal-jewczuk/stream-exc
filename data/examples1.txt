@@ -10,10 +10,10 @@ Acme 99; purple;broken;2019;03;true
 Acme 1234567;purple;prototype;2019;4;true
 Acme X;green;working ;2020;7;false
 Acme;green; prototype;2020;8;true
-Acme7;red;broken;2018;true
+Acme7;red;broken;2018;5;true
 Akord1;white;working;2019;4;true
 Akord2;green;broken;2019;5;true
-Akord777;yellow;working;2019;true
+Akord777;yellow;working;2019;6;true
 Akord 45;red;working;2019;12;true
 Akord;red;working;2020;3;true
 Kor EK;green;prototype;2020;5;false
